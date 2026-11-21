@@ -36,8 +36,6 @@ cargo test --workspace
 
 The description answers three things in plain sentences. What changes, why, and how you tested it. A pull request merges when CI is green and a maintainer approves it. Only maintainers push to `main`.
 
-
-
 ## Data
 
 Test data is synthetic. Never commit real company names, tax ids, emails, phones, addresses or credentials.

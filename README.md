@@ -1,8 +1,8 @@
 # fita-ops
 
-> Private repository. Do not copy its contents to public repositories, issues or docs.
-
 Everything we use to operate Fita for customers with a maintenance contract or managed hosting.
+
+Licensed under the Apache License 2.0, like the rest of Fita. See [LICENSE](LICENSE).
 
 ## Layout
 
